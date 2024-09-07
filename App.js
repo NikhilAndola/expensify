@@ -13,7 +13,7 @@ function App(){
   return (
         <View style={{marginTop: 40}}>
           <Text>
-          Hello world
+          Hello world dd
           </Text>
         </View>
   );
